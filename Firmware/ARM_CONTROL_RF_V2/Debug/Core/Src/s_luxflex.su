@@ -1,0 +1,4 @@
+../Core/Src/s_luxflex.c:22:6:adc_calibration	8	static
+../Core/Src/s_luxflex.c:27:6:hw_adc_start	8	static
+../Core/Src/s_luxflex.c:32:6:hw_adc_stop	8	static
+../Core/Src/s_luxflex.c:37:6:adc_read_channels	24	static

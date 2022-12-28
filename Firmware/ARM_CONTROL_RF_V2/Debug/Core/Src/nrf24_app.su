@@ -1,0 +1,11 @@
+../Core/Src/nrf24_app.c:57:13:all_all_tx_int	32	static
+../Core/Src/nrf24_app.c:68:13:all_all_rx_int	56	dynamic
+../Core/Src/nrf24_app.c:84:6:nrf24_app_tx_data_cbk	16	static
+../Core/Src/nrf24_app.c:89:6:nrf24_app_rx_data_cbk	16	static
+../Core/Src/nrf24_app.c:94:13:all_ptx_cfg	16	static
+../Core/Src/nrf24_app.c:115:13:all_prx_cfg	16	static
+../Core/Src/nrf24_app.c:135:13:all_all_pre_common_cfg	16	static
+../Core/Src/nrf24_app.c:147:13:all_all_post_common_cfg	16	static
+../Core/Src/nrf24_app.c:166:9:nrf24_app_get_pld_size	4	static
+../Core/Src/nrf24_app.c:171:6:nrf24_app_tx_data	16	static
+../Core/Src/nrf24_app.c:190:6:nrf24_app_init	24	static
